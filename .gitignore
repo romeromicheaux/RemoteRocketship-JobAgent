@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+
+# Personal resume files
+*.docx
+*.doc
+*.pdf
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
