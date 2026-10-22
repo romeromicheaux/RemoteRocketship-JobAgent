@@ -1,5 +1,7 @@
 # Remote Rocketship AI Job Agent
 
+🔗 **[View Project on GitHub](https://github.com/romeromicheaux/RemoteRocketship-JobAgent)**
+
 A Node.js-based job discovery and resume-matching application that uses the Remote Rocketship API to identify and rank relevant remote AI employment opportunities.
 
 ## Overview
